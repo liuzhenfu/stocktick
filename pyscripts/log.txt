@@ -1,0 +1,154 @@
+scp start...
+    0     0.0KB/s   --:-- ETAHHTICK_20180515.dat                             0%  109MB 109.4MB/s   01:41 ETAHHTICK_20180515.dat                     
+        1%  221MB 109.6MB/s   01:39 ETAHHTICK_20180515.dat                             2%  332MB 109.7MB/s   01:38 ETAHHTICK_20180515.dat           
+                  3%  442MB 109.8MB/s   01:37 ETAHHTICK_20180515.dat                             4%  553MB 109.9MB/s   01:36 ETAHHTICK_20180515.dat 
+                            5%  664MB 110.0MB/s   01:35 ETAHHTICK_20180515.dat                             6%  773MB 109.9MB/s   01:34 ETAHHTICK_201
+80515.dat                             7%  882MB 109.9MB/s   01:33 ETAHHTICK_20180515.dat                             8%  993MB 109.9MB/s   01:32 ETA
+HHTICK_20180515.dat                             9% 1103MB 109.9MB/s   01:31 ETAHHTICK_20180515.dat                            10% 1213MB 110.0MB/s   
+01:30 ETAHHTICK_20180515.dat                            11% 1324MB 110.1MB/s   01:29 ETAHHTICK_20180515.dat                            12% 1432MB 10
+9.9MB/s   01:28 ETAHHTICK_20180515.dat                            13% 1542MB 109.9MB/s   01:27 ETAHHTICK_20180515.dat                            14%
+ 1653MB 109.9MB/s   01:26 ETAHHTICK_20180515.dat                            15% 1764MB 110.1MB/s   01:25 ETAHHTICK_20180515.dat                     
+       16% 1875MB 110.2MB/s   01:24 ETAHHTICK_20180515.dat                            17% 1977MB 109.4MB/s   01:24 ETAHHTICK_20180515.dat           
+                 18% 2088MB 109.5MB/s   01:23 ETAHHTICK_20180515.dat                            19% 2198MB 109.6MB/s   01:21 ETAHHTICK_20180515.dat 
+                           20% 2307MB 109.6MB/s   01:20 ETAHHTICK_20180515.dat                            21% 2417MB 109.6MB/s   01:19 ETAHHTICK_201
+80515.dat                            22% 2528MB 109.7MB/s   01:18 ETAHHTICK_20180515.dat                            23% 2639MB 109.8MB/s   01:17 ETA
+HHTICK_20180515.dat                            24% 2745MB 109.4MB/s   01:17 ETAHHTICK_20180515.dat                            25% 2856MB 109.6MB/s   
+01:15 ETAHHTICK_20180515.dat                            26% 2968MB 109.9MB/s   01:14 ETAHHTICK_20180515.dat                            27% 3079MB 10
+9.9MB/s   01:13 ETAHHTICK_20180515.dat                            28% 3189MB 110.0MB/s   01:12 ETAHHTICK_20180515.dat                            29%
+ 3300MB 110.1MB/s   01:11 ETAHHTICK_20180515.dat                            30% 3408MB 109.8MB/s   01:10 ETAHHTICK_20180515.dat                     
+       31% 3515MB 109.5MB/s   01:09 ETAHHTICK_20180515.dat                            32% 3619MB 109.0MB/s   01:09 ETAHHTICK_20180515.dat           
+                 33% 3732MB 109.4MB/s   01:08 ETAHHTICK_20180515.dat                            34% 3843MB 109.6MB/s   01:06 ETAHHTICK_20180515.dat 
+                           35% 3954MB 109.7MB/s   01:05 ETAHHTICK_20180515.dat                            36% 4065MB 109.9MB/s   01:04 ETAHHTICK_201
+80515.dat                            37% 4176MB 110.0MB/s   01:03 ETAHHTICK_20180515.dat                            38% 4287MB 110.1MB/s   01:02 ETA
+HHTICK_20180515.dat                            39% 4398MB 110.2MB/s   01:01 ETAHHTICK_20180515.dat                            40% 4509MB 110.3MB/s   
+01:00 ETAHHTICK_20180515.dat                            41% 4620MB 110.3MB/s   00:59 ETAHHTICK_20180515.dat                            42% 4731MB 11
+0.4MB/s   00:58 ETAHHTICK_20180515.dat                            43% 4842MB 110.4MB/s   00:57 ETAHHTICK_20180515.dat                            44%
+ 4953MB 110.5MB/s   00:56 ETAHHTICK_20180515.dat                            45% 5064MB 110.6MB/s   00:55 ETAHHTICK_20180515.dat                     
+       46% 5163MB 109.4MB/s   00:54 ETAHHTICK_20180515.dat                            47% 5274MB 109.6MB/s   00:53 ETAHHTICK_20180515.dat           
+                 48% 5386MB 109.8MB/s   00:52 ETAHHTICK_20180515.dat                            49% 5497MB 109.9MB/s   00:51 ETAHHTICK_20180515.dat 
+                           50% 5607MB 110.0MB/s   00:50 ETAHHTICK_20180515.dat                            51% 5718MB 110.1MB/s   00:49 ETAHHTICK_201
+80515.dat                            52% 5830MB 110.2MB/s   00:48 ETAHHTICK_20180515.dat                            53% 5941MB 110.3MB/s   00:47 ETA
+HHTICK_20180515.dat                            54% 6052MB 110.4MB/s   00:46 ETAHHTICK_20180515.dat                            55% 6163MB 110.4MB/s   
+00:45 ETAHHTICK_20180515.dat                            56% 6274MB 110.5MB/s   00:44 ETAHHTICK_20180515.dat                            57% 6385MB 11
+0.6MB/s   00:43 ETAHHTICK_20180515.dat                            58% 6496MB 110.6MB/s   00:42 ETAHHTICK_20180515.dat                            59%
+ 6607MB 110.7MB/s   00:41 ETAHHTICK_20180515.dat                            60% 6718MB 110.7MB/s   00:40 ETAHHTICK_20180515.dat                     
+       61% 6824MB 110.2MB/s   00:39 ETAHHTICK_20180515.dat                            61% 6929MB 109.7MB/s   00:38 ETAHHTICK_20180515.dat           
+                 62% 7039MB 109.7MB/s   00:37 ETAHHTICK_20180515.dat                            63% 7150MB 109.8MB/s   00:36 ETAHHTICK_20180515.dat 
+                           64% 7261MB 110.0MB/s   00:35 ETAHHTICK_20180515.dat                            65% 7372MB 110.1MB/s   00:34 ETAHHTICK_201
+80515.dat                            66% 7483MB 110.2MB/s   00:33 ETAHHTICK_20180515.dat                            67% 7594MB 110.3MB/s   00:32 ETA
+HHTICK_20180515.dat                            68% 7706MB 110.4MB/s   00:31 ETAHHTICK_20180515.dat                            69% 7817MB 104.9MB/s   
+00:32 ETAHHTICK_20180515.dat                            70% 7928MB 105.5MB/s   00:30 ETAHHTICK_20180515.dat                            71% 8039MB 10
+6.1MB/s   00:29 ETAHHTICK_20180515.dat                            72% 8150MB 106.6MB/s   00:28 ETAHHTICK_20180515.dat                            73%
+ 8261MB 107.0MB/s   00:27 ETAHHTICK_20180515.dat                            74% 8372MB 107.4MB/s   00:26 ETAHHTICK_20180515.dat                     
+       75% 8483MB 107.8MB/s   00:25 ETAHHTICK_20180515.dat                            76% 8594MB 108.1MB/s   00:23 ETAHHTICK_20180515.dat           
+                 77% 8705MB 108.4MB/s   00:22 ETAHHTICK_20180515.dat                            78% 8817MB 108.7MB/s   00:21 ETAHHTICK_20180515.dat 
+                           79% 8928MB 108.9MB/s   00:20 ETAHHTICK_20180515.dat                            80% 9039MB 109.2MB/s   00:19 ETAHHTICK_201
+80515.dat                            81% 9150MB 109.4MB/s   00:18 ETAHHTICK_20180515.dat                            82% 9261MB 109.5MB/s   00:17 ETA
+HHTICK_20180515.dat                            83% 9372MB 109.7MB/s   00:16 ETAHHTICK_20180515.dat                            84% 9483MB 109.8MB/s   
+00:15 ETAHHTICK_20180515.dat                            85% 9595MB 110.0MB/s   00:14 ETAHHTICK_20180515.dat                            86% 9706MB 11
+0.1MB/s   00:13 ETAHHTICK_20180515.dat                            87% 9817MB 110.2MB/s   00:12 ETAHHTICK_20180515.dat                            88%
+ 9928MB 110.3MB/s   00:11 ETAHHTICK_20180515.dat                            89%   10GB 110.4MB/s   00:10 ETAHHTICK_20180515.dat                     
+       90%   10GB 110.5MB/s   00:09 ETAHHTICK_20180515.dat                            91%   10GB 110.5MB/s   00:08 ETAHHTICK_20180515.dat           
+                 92%   10GB 110.6MB/s   00:07 ETAHHTICK_20180515.dat                            93%   10GB 110.6MB/s   00:06 ETAHHTICK_20180515.dat 
+                           94%   10GB 110.7MB/s   00:05 ETAHHTICK_20180515.dat                            95%   10GB 110.7MB/s   00:04 ETAHHTICK_201
+80515.dat                            96%   11GB 110.8MB/s   00:03 ETAHHTICK_20180515.dat                            97%   11GB 110.8MB/s   00:02 ETA
+HHTICK_20180515.dat                            98%   11GB 110.8MB/s   00:01 ETAHHTICK_20180515.dat                            99%   11GB 110.9MB/s   
+00:00 ETAHHTICK_20180515.dat                           100%   11GB 109.6MB/s   01:42    
+
+scp done
+scp start...
+    0     0.0KB/s   --:-- ETAHHTICK_20180515.dat                             1%   94MB  94.3MB/s   00:55 ETAHHTICK_20180515.dat                     
+        3%  192MB  94.6MB/s   00:54 ETAHHTICK_20180515.dat                             5%  293MB  95.2MB/s   00:53 ETAHHTICK_20180515.dat           
+                  7%  391MB  95.5MB/s   00:51 ETAHHTICK_20180515.dat                             9%  488MB  95.7MB/s   00:50 ETAHHTICK_20180515.dat 
+                           10%  565MB  93.8MB/s   00:50 ETAHHTICK_20180515.dat                            12%  662MB  94.1MB/s   00:49 ETAHHTICK_201
+80515.dat                            14%  762MB  94.7MB/s   00:48 ETAHHTICK_20180515.dat                            16%  858MB  94.9MB/s   00:47 ETA
+HHTICK_20180515.dat                            17%  958MB  95.3MB/s   00:45 ETAHHTICK_20180515.dat                            19% 1057MB  95.7MB/s   
+00:44 ETAHHTICK_20180515.dat                            21% 1168MB  97.3MB/s   00:42 ETAHHTICK_20180515.dat                            23% 1279MB  9
+8.7MB/s   00:41 ETAHHTICK_20180515.dat                            26% 1391MB  99.9MB/s   00:39 ETAHHTICK_20180515.dat                            28%
+ 1502MB 101.1MB/s   00:37 ETAHHTICK_20180515.dat                            30% 1610MB 101.8MB/s   00:36 ETAHHTICK_20180515.dat                     
+       32% 1721MB 102.7MB/s   00:35 ETAHHTICK_20180515.dat                            34% 1833MB 103.6MB/s   00:33 ETAHHTICK_20180515.dat           
+                 36% 1944MB 104.4MB/s   00:32 ETAHHTICK_20180515.dat                            38% 2055MB 105.0MB/s   00:31 ETAHHTICK_20180515.dat 
+                           40% 2167MB 105.7MB/s   00:30 ETAHHTICK_20180515.dat                            42% 2278MB 106.2MB/s   00:28 ETAHHTICK_201
+80515.dat                            44% 2387MB 106.5MB/s   00:27 ETAHHTICK_20180515.dat                            46% 2489MB 106.1MB/s   00:26 ETA
+HHTICK_20180515.dat                            48% 2588MB 105.4MB/s   00:26 ETAHHTICK_20180515.dat                            50% 2697MB 105.8MB/s   
+00:24 ETAHHTICK_20180515.dat                            52% 2808MB 106.3MB/s   00:23 ETAHHTICK_20180515.dat                            54% 2920MB 10
+6.8MB/s   00:22 ETAHHTICK_20180515.dat                            56% 3031MB 107.2MB/s   00:21 ETAHHTICK_20180515.dat                            58%
+ 3142MB 107.6MB/s   00:20 ETAHHTICK_20180515.dat                            60% 3253MB 108.0MB/s   00:19 ETAHHTICK_20180515.dat                     
+       62% 3335MB 105.4MB/s   00:19 ETAHHTICK_20180515.dat                            64% 3440MB 105.4MB/s   00:18 ETAHHTICK_20180515.dat           
+                 66% 3551MB 105.9MB/s   00:16 ETAHHTICK_20180515.dat                            68% 3662MB 106.4MB/s   00:15 ETAHHTICK_20180515.dat 
+                           69% 3708MB 100.3MB/s   00:16 ETAHHTICK_20180515.dat                            71% 3821MB 101.6MB/s   00:14 ETAHHTICK_201
+80515.dat                            73% 3912MB 100.5MB/s   00:14 ETAHHTICK_20180515.dat                            75% 4022MB 101.5MB/s   00:12 ETA
+HHTICK_20180515.dat                            77% 4124MB 101.6MB/s   00:11 ETAHHTICK_20180515.dat                            79% 4235MB 102.5MB/s   
+00:10 ETAHHTICK_20180515.dat                            81% 4346MB 103.3MB/s   00:09 ETAHHTICK_20180515.dat                            83% 4457MB 10
+4.1MB/s   00:08 ETAHHTICK_20180515.dat                            85% 4568MB 104.8MB/s   00:07 ETAHHTICK_20180515.dat                            87%
+ 4679MB 105.4MB/s   00:06 ETAHHTICK_20180515.dat                            89% 4775MB 104.5MB/s   00:05 ETAHHTICK_20180515.dat                     
+       91% 4886MB 105.1MB/s   00:04 ETAHHTICK_20180515.dat                            93% 4994MB 105.5MB/s   00:03 ETAHHTICK_20180515.dat           
+                 95% 5103MB 105.8MB/s   00:02 ETAHHTICK_20180515.dat            行情日期20180515
+====end of file 0
+行情日期20180515
+====end of file 0
+                97% 5212MB 106.1MB/s   00:01 ETAHHTICK_20180515.dat 
+                           99% 5320MB 106.3MB/s   00:00 ETAHHTICK_20180515.dat                           100% 5339MB 104.7MB/s   00:51    
+
+scp done
+[17:33:00.349319] check result:tkr_cnt:15040, md_cnt:461.148, ts_cnt:906.615, idx_cnt:63.9816, oq_cnt:463.065, od_cnt:0, tme_ts:145959960, tme_od:0, tme_oq:150021000,tme_error_total:139, tme_error_sh:155, tme_error_sz:0
+
+[17:34:16.977375] check result:tkr_cnt:7735, md_cnt:662.237, ts_cnt:1759.91, idx_cnt:154.894, oq_cnt:967.087, od_cnt:2020.69, tme_ts:150000000, tme_od:145959990, tme_oq:150003000,tme_error_total:2428, tme_error_sh:0, tme_error_sz:8279
+
+send success.
+ssh -p 53450 windhh@101.96.129.42
+ssh login success
+@dbstore-PowerEdge-R730xd:~$ cd /media/dbstore/data/windHHData/2018/
+
+windhh@dbstore-PowerEdge-R730xd:~/2018$ mkdir 20180515
+
+scp -C -P 53450 /datas/share/stockdata/L2data/SH_N/HHTICK_20180515.dat 53450@windhh:101.96.129.42
+scp start...
+    0     0.0KB/s   --:-- ETAHHTICK_20180515.dat                             0%   25MB  24.7MB/s   03:35 ETAHHTICK_20180515.dat                     
+        0%   49MB  24.6MB/s   03:35 ETAHHTICK_20180515.dat                             1%   65MB  23.8MB/s   03:41 ETAHHTICK_20180515.dat           
+                  1%   77MB  22.6MB/s   03:53 ETAHHTICK_20180515.dat                             1%   87MB  21.3MB/s   04:06 ETAHHTICK_20180515.dat 
+                            1%  100MB  20.5MB/s   04:15 ETAHHTICK_20180515.dat                             2%  110MB  19.5MB/s   04:27 ETAHHTICK_201
+80515.dat                             2%  120MB  18.5MB/s   04:41 ETAHHTICK_20180515.dat                             2%  132MB  17.8MB/s   04:52 ETA
+HHTICK_20180515.dat                             2%  143MB  17.2MB/s   05:02 ETAHHTICK_20180515.dat                             2%  154MB  16.5MB/s   
+05:13 ETAHHTICK_20180515.dat                             3%  165MB  16.1MB/s   05:22 ETAHHTICK_20180515.dat                             3%  176MB  1
+5.5MB/s   05:32 ETAHHTICK_20180515.dat                             3%  185MB  14.9MB/s   05:46 ETAHHTICK_20180515.dat                             3%
+  197MB  14.5MB/s   05:53 ETAHHTICK_20180515.dat                             3%  206MB  14.0MB/s   06:05 ETAHHTICK_20180515.dat                     
+        4%  216MB  13.6MB/s   06:17 ETAHHTICK_20180515.dat                             4%  227MB  13.4MB/s   06:22 ETAHHTICK_20180515.dat           
+                  4%  239MB  13.2MB/s   06:25 ETAHHTICK_20180515.dat                             4%  249MB  12.9MB/s   06:33 ETAHHTICK_20180515.dat 
+                            4%  260MB  12.7MB/s   06:39 ETAHHTICK_20180515.dat                             5%  272MB  12.6MB/s   06:42 ETAHHTICK_201
+80515.dat                             5%  281MB  12.3MB/s   06:53 ETAHHTICK_20180515.dat                             5%  293MB  12.2MB/s   06:53 ETA
+HHTICK_20180515.dat                             5%  304MB  12.1MB/s   06:55 ETAHHTICK_20180515.dat                             5%  314MB  11.9MB/s   
+07:03 ETAHHTICK_20180515.dat                             6%  325MB  11.9MB/s   07:02 ETAHHTICK_20180515.dat                             6%  335MB  1
+1.6MB/s   07:10 ETAHHTICK_20180515.dat                             6%  345MB  11.4MB/s   07:17 ETAHHTICK_20180515.dat                             6%
+  356MB  11.4MB/s   07:15 ETAHHTICK_20180515.dat                             6%  368MB  11.5MB/s   07:13 ETAHHTICK_20180515.dat                     
+        7%  378MB  11.3MB/s   07:18 ETAHHTICK_20180515.dat                             7%  388MB  11.2MB/s   07:20 ETAHHTICK_20180515.dat           
+                  7%  398MB  11.1MB/s   07:27 ETAHHTICK_20180515.dat                             7%  409MB  11.1MB/s   07:24 ETAHHTICK_20180515.dat 
+                            7%  421MB  11.1MB/s   07:21 ETAHHTICK_20180515.dat                             8%  432MB  11.1MB/s   07:21 ETAHHTICK_201
+80515.dat                             8%  441MB  11.0MB/s   07:26 ETAHHTICK_20180515.dat                             8%  452MB  11.0MB/s   07:24 ETA
+HHTICK_20180515.dat                             8%  462MB  10.9MB/s   07:28 ETAHHTICK_20180515.dat                             8%  472MB  10.7MB/s   
+07:33 ETAHHTICK_20180515.dat                             9%  482MB  10.7MB/s   07:32 ETAHHTICK_20180515.dat                             9%  493MB  1
+0.7MB/s   07:31 ETAHHTICK_20180515.dat                             9%  503MB  10.7MB/s   07:32 ETAHHTICK_20180515.dat                             9%
+  515MB  10.8MB/s   07:26 ETAHHTICK_20180515.dat                             9%  525MB  10.7MB/s   07:31 ETAHHTICK_20180515.dat                     
+       10%  537MB  10.8MB/s   07:22 ETAHHTICK_20180515.dat                            10%  547MB  10.8MB/s   07:24 ETAHHTICK_20180515.dat           
+                 10%  557MB  10.7MB/s   07:26 ETAHHTICK_20180515.dat                            10%  567MB  10.6MB/s   07:32 ETAHHTICK_20180515.dat 
+                           10%  578MB  10.7MB/s   07:26 ETAHHTICK_20180515.dat                            11%  588MB  10.6MB/s   07:30 ETAHHTICK_201
+80515.dat                            11%  600MB  10.7MB/s   07:21 ETAHHTICK_20180515.dat                            11%  608MB  10.5MB/s   07:31 ETA
+HHTICK_20180515.dat                            11%  621MB  10.7MB/s   07:19 ETAHHTICK_20180515.dat                            11%  630MB  10.5MB/s   
+07:27 ETAHHTICK_20180515.dat                            12%  641MB  10.6MB/s   07:22 ETAHHTICK_20180515.dat                            12%  654MB  1
+0.8MB/s   07:13 ETAHHTICK_20180515.dat                            12%  662MB  10.6MB/s   07:22 ETAHHTICK_20180515.dat                            12%
+  672MB  10.5MB/s   07:23 ETAHHTICK_20180515.dat                            12%  684MB  10.7MB/s   07:17 ETAHHTICK_20180515.dat                     
+       13%  694MB  10.6MB/s   07:18 ETAHHTICK_20180515.dat                            13%  705MB  10.6MB/s   07:18 ETAHHTICK_20180515.dat           
+                 13%  716MB  10.6MB/s   07:15 ETAHHTICK_20180515.dat                            13%  728MB  10.7MB/s   07:09 ETAHHTICK_20180515.dat 
+                           13%  737MB  10.6MB/s   07:14 ETAHHTICK_20180515.dat                            13%  747MB  10.6MB/s   07:14 ETAHHTICK_201
+80515.dat                            14%  759MB  10.7MB/s   07:09 ETAHHTICK_20180515.dat                            14%  767MB  10.4MB/s   07:18 ETA
+HHTICK_20180515.dat                            14%  780MB  10.7MB/s   07:07 ETAHHTICK_20180515.dat                            14%  789MB  10.5MB/s   
+07:14 ETAHHTICK_20180515.dat                            14%  800MB  10.6MB/s   07:09 ETAHHTICK_20180515.dat                            15%  809MB  1
+0.4MB/s   07:15 ETAHHTICK_20180515.dat                            15%  820MB  10.5MB/s   07:11 ETAHHTICK_20180515.dat                            15%
+  828MB  10.3MB/s   07:20 ETAHHTICK_20180515.dat                            15%  840MB  10.4MB/s   07:12 ETAHHTICK_20180515.dat                     
+       15%  850MB  10.4MB/s   07:11 ETAHHTICK_20180515.dat                            16%  859MB  10.2MB/s   07:20 ETAHHTICK_20180515.dat           
+                 16%  866MB   9.9MB/s   07:30 ETAHHTICK_20180515.dat                            16%  884MB  10.7MB/s   06:57 ETAHHTICK_20180515.dat 
+                           16%  894MB  10.7MB/s   06:57 ETAHHTICK_20180515.dat                            16%  902MB  10.3MB/s   07:09 ETAHHTICK_201
+80515.dat                            16%  906MB   9.7MB/s   07:35 ETAHHTICK_20180515.dat                            17%  920MB  10.1MB/s   07:16 ETA
+HHTICK_20180515.dat                            17%  935MB  10.6MB/s   06:54 ETAHHTICK_20180515.dat                            17%  944MB  10.5MB/s   
+07:00 ETAHHTICK_20180515.dat                            17%  953MB  10.3MB/s   07:04 ETAHHTICK_20180515.dat                            18%  965MB  1
+0.5MB/s   06:56 ETAHHTICK_20180515.dat                            18%  975MB  10.4MB/s   06:58 ETAHHTICK_20180

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cfg>		
+  <Macros MODULES="/datas/bsimcffex/modules" DATA="/datas/share/bar_data/stock_bar_data"/>
+
+  <!-- can set attributes like minvol, etc. -->
+  <Universe 
+      universeFile = "./universe.txt"
+      disable = "B.DCE|BB.DCE|CS.DCE|ER.CZCE|FB.DCE|FU.SHFE|IFM.CFFEX|IM.SHFE|JR.CZCE|LR.CZCE|ME.CZCE|PM.CZCE|RI.CZCE|RO.CZCE|RS.CZCE|SF.CZCE|SM.CZCE|T.CFFEX|TC.CZCE|TFM.CFFEX|TM.CFFEX|WR.SHFE|WS.CZCE|WT.CZCE|"
+      />
+
+  <DataGenerator DATA="/datas/share/bar_data/wongs_bar1M/testcffex4" online="false" loadFilePath="/home/wangchao/work/tick">
+    <Meta name="Meta" nrow="1024" ncol="1024" width="56" length="1000000">
+      <input path="./config"/>
+    </Meta>
+
+    <MinBar name="MinBar" barSpan="60"> 
+      <input path="./data/"/>
+      <field name="opn"    type="float32"/>
+      <field name="high"   type="float32"/>
+      <field name="low"    type="float32"/>
+      <field name="clse"   type="float32"/>
+      <field name="shr"    type="float64"/>
+      <field name="val"    type="float64"/>
+      <field name="opi"    type="float32"/>
+      <field name="logret" type="float32"/>
+      <field name="askp"   type="float32"/>
+      <field name="askv"   type="float32"/>
+      <field name="bidp"   type="float32"/>
+      <field name="bidv"   type="float32"/>
+    </MinBar>
+
+    <DailyBar name="DailyBar">
+      <input path="./hfs_IF_daily.py"/>
+      <field name="opn"    type="float32"/>
+      <field name="high"   type="float32"/>
+      <field name="low"    type="float32"/>
+      <field name="clse"   type="float32"/>
+      <field name="shr"    type="float64"/>
+      <field name="val"    type="float64"/>
+      <field name="opi"    type="float32"/>
+      <field name="logret" type="float32"/>
+      <field name="settle" type="float32"/>
+    </DailyBar>
+
+    <TickPool name="TickPool">
+      <Const MAX_TKR_CNT="4096" CHUNK_SIZE="8192" GLOBAL_INDEX_SIZE="1024 * 1024 * 512"/>
+
+    </TickPool >
+
+  </DataGenerator>
+
+</cfg>

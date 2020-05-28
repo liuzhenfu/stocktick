@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<conf>           
+    <!-- 宏汇Level2数据读取地址 -->
+    <HHL2
+        HHL2Address = "172.18.100.204"
+        HHL2Port = "20002"
+        HHL2User = "alpha2fund"
+        HHL2Passwd = "alph1234"
+        mktType = "SZ"/>
+
+</conf>
+

@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "getTkrsData.py", line 105, in <module>
+    run()
+  File "getTkrsData.py", line 96, in run
+    if down_one(downlist[-1]) == -1:
+  File "getTkrsData.py", line 56, in down_one
+    if process.find('quit') != -1:
+  File "getTkrsData.py", line 56, in down_one
+    if process.find('quit') != -1:
+  File "/usr/lib64/python2.7/bdb.py", line 49, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib64/python2.7/bdb.py", line 68, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
